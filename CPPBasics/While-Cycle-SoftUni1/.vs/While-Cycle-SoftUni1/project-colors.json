@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "530a12b2-7462-48b4-816a-e6cb5cb21015": {
+      "ProjectGuid": "530a12b2-7462-48b4-816a-e6cb5cb21015",
+      "DisplayName": "While-Cycle-SoftUni1",
+      "ColorIndex": 0
+    },
+    "6ebeb67f-f560-4dac-9cc1-4a373e6fa3f5": {
+      "ProjectGuid": "6ebeb67f-f560-4dac-9cc1-4a373e6fa3f5",
+      "DisplayName": "PasswordSoftUni",
+      "ColorIndex": 1
+    },
+    "8396367b-cbde-4f04-a60f-9d7bd075cbec": {
+      "ProjectGuid": "8396367b-cbde-4f04-a60f-9d7bd075cbec",
+      "DisplayName": "SumNumbers-WhileSoftUni3",
+      "ColorIndex": 2
+    },
+    "609bbb7e-5e5c-4385-af97-1e1f7cddea24": {
+      "ProjectGuid": "609bbb7e-5e5c-4385-af97-1e1f7cddea24",
+      "DisplayName": "2k+1SoftUni",
+      "ColorIndex": 3
+    },
+    "8507226d-79fb-4a21-b512-259c04906dd1": {
+      "ProjectGuid": "8507226d-79fb-4a21-b512-259c04906dd1",
+      "DisplayName": "BalanceAcc-SoftUni",
+      "ColorIndex": 4
+    },
+    "3822db08-16b2-4dfb-9242-db9871edc29d": {
+      "ProjectGuid": "3822db08-16b2-4dfb-9242-db9871edc29d",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 5
+    },
+    "36e5c322-a1f5-4af9-9ff0-9a117faeb2e6": {
+      "ProjectGuid": "36e5c322-a1f5-4af9-9ff0-9a117faeb2e6",
+      "DisplayName": "MaxNumber-SoftUni6",
+      "ColorIndex": 6
+    },
+    "956fa5a9-27dc-4847-84b2-3aa7c294e6d1": {
+      "ProjectGuid": "956fa5a9-27dc-4847-84b2-3aa7c294e6d1",
+      "DisplayName": "Exam-SoftUni7",
+      "ColorIndex": 7
+    },
+    "7cce0047-b62f-4b83-b65f-e260923917d3": {
+      "ProjectGuid": "7cce0047-b62f-4b83-b65f-e260923917d3",
+      "DisplayName": "MinNumber-SoftUni8",
+      "ColorIndex": 8
+    },
+    "3187eda4-3e8f-49ed-830c-41f1808b21ae": {
+      "ProjectGuid": "3187eda4-3e8f-49ed-830c-41f1808b21ae",
+      "DisplayName": "Graduation-SoftUni-9",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

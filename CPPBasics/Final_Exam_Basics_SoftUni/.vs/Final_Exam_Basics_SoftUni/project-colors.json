@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbfa8a74-ffb1-4650-8fc7-253271143b39": {
+      "ProjectGuid": "dbfa8a74-ffb1-4650-8fc7-253271143b39",
+      "DisplayName": "Final_Exam_Basics_SoftUni",
+      "ColorIndex": 0
+    },
+    "d253eacf-2552-492d-8c75-cd2decf0e034": {
+      "ProjectGuid": "d253eacf-2552-492d-8c75-cd2decf0e034",
+      "DisplayName": "DeersOfSanta_02",
+      "ColorIndex": 1
+    },
+    "4e9f25cb-6315-4f7e-a9f3-ddd4b818c012": {
+      "ProjectGuid": "4e9f25cb-6315-4f7e-a9f3-ddd4b818c012",
+      "DisplayName": "Final_Competition_03",
+      "ColorIndex": 2
+    },
+    "a3214bce-97c7-4dec-b363-39a28dd93f12": {
+      "ProjectGuid": "a3214bce-97c7-4dec-b363-39a28dd93f12",
+      "DisplayName": "Workout_04",
+      "ColorIndex": 3
+    },
+    "3147ad94-ed5c-4d01-910f-cc55a11da546": {
+      "ProjectGuid": "3147ad94-ed5c-4d01-910f-cc55a11da546",
+      "DisplayName": "Barber_Shop_05",
+      "ColorIndex": 4
+    },
+    "9317f574-559e-45dc-b0ec-119fca93d5f7": {
+      "ProjectGuid": "9317f574-559e-45dc-b0ec-119fca93d5f7",
+      "DisplayName": "Sum_And_Product_06",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

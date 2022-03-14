@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "653704b6-b2bb-4b64-bd90-6fa01d5a03b2": {
+      "ProjectGuid": "653704b6-b2bb-4b64-bd90-6fa01d5a03b2",
+      "DisplayName": "NumberPyramid",
+      "ColorIndex": 0
+    },
+    "d2bbf0b9-7552-4fd2-9cff-aa54f6cb841a": {
+      "ProjectGuid": "d2bbf0b9-7552-4fd2-9cff-aa54f6cb841a",
+      "DisplayName": "EqualSumsEvenOddPosition",
+      "ColorIndex": 1
+    },
+    "5e8ae1af-9fc7-4fc7-9cab-bba535269222": {
+      "ProjectGuid": "5e8ae1af-9fc7-4fc7-9cab-bba535269222",
+      "DisplayName": "SumOfPrimeAndNonprimeNumbers",
+      "ColorIndex": 2
+    },
+    "216b1909-7783-4da6-ab43-594bd0124508": {
+      "ProjectGuid": "216b1909-7783-4da6-ab43-594bd0124508",
+      "DisplayName": "TrainTheTrainers",
+      "ColorIndex": 3
+    },
+    "ec20ba2a-3e88-4fa7-b8f2-cc50ef0c8096": {
+      "ProjectGuid": "ec20ba2a-3e88-4fa7-b8f2-cc50ef0c8096",
+      "DisplayName": "SpecialNumbers",
+      "ColorIndex": 4
+    },
+    "ffabf149-56c4-4d90-a1a4-a2dd38cb181a": {
+      "ProjectGuid": "ffabf149-56c4-4d90-a1a4-a2dd38cb181a",
+      "DisplayName": "CinemaTickets",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

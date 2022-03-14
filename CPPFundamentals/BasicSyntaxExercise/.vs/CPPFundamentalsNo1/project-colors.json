@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71d32754-ef65-40da-9a84-6de3db5fd66f": {
+      "ProjectGuid": "71d32754-ef65-40da-9a84-6de3db5fd66f",
+      "DisplayName": "CPPFundamentalsNo1",
+      "ColorIndex": 0
+    },
+    "96b1ec06-4ade-4293-93b7-4d276436fb1e": {
+      "ProjectGuid": "96b1ec06-4ade-4293-93b7-4d276436fb1e",
+      "DisplayName": "ProductSign",
+      "ColorIndex": 1
+    },
+    "e0c1e2bb-6e45-4efa-9c77-f378dead3527": {
+      "ProjectGuid": "e0c1e2bb-6e45-4efa-9c77-f378dead3527",
+      "DisplayName": "QuadraticEquation",
+      "ColorIndex": 2
+    },
+    "ae85780b-1f4c-4a24-980c-5c150b3dcfaf": {
+      "ProjectGuid": "ae85780b-1f4c-4a24-980c-5c150b3dcfaf",
+      "DisplayName": "1toN",
+      "ColorIndex": 3
+    },
+    "d1bd4dbe-f2a0-48f6-b418-90217fd3fa50": {
+      "ProjectGuid": "d1bd4dbe-f2a0-48f6-b418-90217fd3fa50",
+      "DisplayName": "MinAndMax",
+      "ColorIndex": 4
+    },
+    "8b13f9f8-5fa2-4649-b5ed-28c73f9b5ea1": {
+      "ProjectGuid": "8b13f9f8-5fa2-4649-b5ed-28c73f9b5ea1",
+      "DisplayName": "GreatestCommonDivisor",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

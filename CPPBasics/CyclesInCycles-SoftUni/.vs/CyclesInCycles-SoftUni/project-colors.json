@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c64c7784-b0b1-497a-bdec-e70e78ea16bd": {
+      "ProjectGuid": "c64c7784-b0b1-497a-bdec-e70e78ea16bd",
+      "DisplayName": "Clock-SoftUni",
+      "ColorIndex": 0
+    },
+    "fa8ed947-9de4-4a66-bb66-9ace35389500": {
+      "ProjectGuid": "fa8ed947-9de4-4a66-bb66-9ace35389500",
+      "DisplayName": "CyclesInCycles-SoftUni",
+      "ColorIndex": 1
+    },
+    "337ee5f0-0d4c-4b62-8dca-4b09ccfc4041": {
+      "ProjectGuid": "337ee5f0-0d4c-4b62-8dca-4b09ccfc4041",
+      "DisplayName": "MultiplicationTable",
+      "ColorIndex": 2
+    },
+    "82fde3fc-e974-4d55-b469-4b27d68efa83": {
+      "ProjectGuid": "82fde3fc-e974-4d55-b469-4b27d68efa83",
+      "DisplayName": "Combinations",
+      "ColorIndex": 3
+    },
+    "05bbb3b3-749f-4bc3-ac9c-ad8cb27691d4": {
+      "ProjectGuid": "05bbb3b3-749f-4bc3-ac9c-ad8cb27691d4",
+      "DisplayName": "SumOfTwoNumbers",
+      "ColorIndex": 4
+    },
+    "24dbb405-1f62-4f67-8197-1b05348bb21d": {
+      "ProjectGuid": "24dbb405-1f62-4f67-8197-1b05348bb21d",
+      "DisplayName": "Travelling",
+      "ColorIndex": 5
+    },
+    "b951311f-bdba-4bd3-86dd-e0e6bd951633": {
+      "ProjectGuid": "b951311f-bdba-4bd3-86dd-e0e6bd951633",
+      "DisplayName": "Building",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

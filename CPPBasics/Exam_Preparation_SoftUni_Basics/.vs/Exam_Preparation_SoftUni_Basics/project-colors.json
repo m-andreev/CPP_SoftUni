@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb0572f6-0b32-437a-bcdf-5a344e285ac8": {
+      "ProjectGuid": "cb0572f6-0b32-437a-bcdf-5a344e285ac8",
+      "DisplayName": "Exam_Preparation_SoftUni_Basics",
+      "ColorIndex": 0
+    },
+    "26555f9e-c598-4581-b5b3-4b63ca0e59c7": {
+      "ProjectGuid": "26555f9e-c598-4581-b5b3-4b63ca0e59c7",
+      "DisplayName": "FamilyTrip",
+      "ColorIndex": 1
+    },
+    "c6348fb5-651d-4ed2-8f1a-4f45ead91857": {
+      "ProjectGuid": "c6348fb5-651d-4ed2-8f1a-4f45ead91857",
+      "DisplayName": "DestinationForMovie",
+      "ColorIndex": 2
+    },
+    "93e363e8-7ad0-4fce-9ea6-87f9012b3eb6": {
+      "ProjectGuid": "93e363e8-7ad0-4fce-9ea6-87f9012b3eb6",
+      "DisplayName": "FoodForPets",
+      "ColorIndex": 3
+    },
+    "7e392833-414a-428e-aca0-8bc735c441ae": {
+      "ProjectGuid": "7e392833-414a-428e-aca0-8bc735c441ae",
+      "DisplayName": "BattleOfTheEasterEggs",
+      "ColorIndex": 4
+    },
+    "eee33458-8b2d-459a-9759-3cf75f732651": {
+      "ProjectGuid": "eee33458-8b2d-459a-9759-3cf75f732651",
+      "DisplayName": "BarcodeGenerator",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

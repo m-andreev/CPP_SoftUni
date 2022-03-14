@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Exam_Preparation_SoftUni_Basics.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+  Exam_Preparation_SoftUni_Basics.vcxproj -> C:\Users\Machi\source\repos\Exam_Preparation_SoftUni_Basics\x64\Debug\FruitBazar.exe

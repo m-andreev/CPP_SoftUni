@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e797b5f9-5a59-4d8d-a018-ba7d93799726": {
+      "ProjectGuid": "e797b5f9-5a59-4d8d-a018-ba7d93799726",
+      "DisplayName": "While-Cycle-Pt2-SoftUni",
+      "ColorIndex": 0
+    },
+    "cbd2f4f6-34a6-4d55-a1fa-dd2e266eff32": {
+      "ProjectGuid": "cbd2f4f6-34a6-4d55-a1fa-dd2e266eff32",
+      "DisplayName": "ExamPreparation-SoftUni",
+      "ColorIndex": 1
+    },
+    "25786307-35a9-467d-9e10-eca0a1a4bab9": {
+      "ProjectGuid": "25786307-35a9-467d-9e10-eca0a1a4bab9",
+      "DisplayName": "VacationSoftUni",
+      "ColorIndex": 2
+    },
+    "d9330812-eea7-49b1-98a7-f04100a3b3ae": {
+      "ProjectGuid": "d9330812-eea7-49b1-98a7-f04100a3b3ae",
+      "DisplayName": "WalkingSoftUni",
+      "ColorIndex": 3
+    },
+    "02a7cb83-2aef-460d-ab77-75bd25c179f5": {
+      "ProjectGuid": "02a7cb83-2aef-460d-ab77-75bd25c179f5",
+      "DisplayName": "CoinsSoftUni",
+      "ColorIndex": 4
+    },
+    "254e7ba6-dee6-4e4e-8fcd-f00cc0ed1ff2": {
+      "ProjectGuid": "254e7ba6-dee6-4e4e-8fcd-f00cc0ed1ff2",
+      "DisplayName": "Cake-SoftUni",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ac1745c6-fb18-46d2-bf6e-f045b4d06612": {
+      "ProjectGuid": "ac1745c6-fb18-46d2-bf6e-f045b4d06612",
+      "DisplayName": "Walking2-SoftUni",
+      "ColorIndex": 6
+    },
+    "1b77d434-5c91-44b0-8957-ba9906830e5e": {
+      "ProjectGuid": "1b77d434-5c91-44b0-8957-ba9906830e5e",
+      "DisplayName": "Moving-SoftUni",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

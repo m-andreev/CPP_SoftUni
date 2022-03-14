@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f44e3b1a-4f15-40a0-877d-2ca5fb375917": {
+      "ProjectGuid": "f44e3b1a-4f15-40a0-877d-2ca5fb375917",
+      "DisplayName": "SoftUniForExercise1",
+      "ColorIndex": 0
+    },
+    "f1f24e07-8ad4-4195-b19d-4f12c624096e": {
+      "ProjectGuid": "f1f24e07-8ad4-4195-b19d-4f12c624096e",
+      "DisplayName": "SoftUniExercise2",
+      "ColorIndex": 1
+    },
+    "73c70f38-ea8e-480e-bf63-9b19acc12db0": {
+      "ProjectGuid": "73c70f38-ea8e-480e-bf63-9b19acc12db0",
+      "DisplayName": "Histogram",
+      "ColorIndex": 2
+    },
+    "6fdc203c-a3b9-4acf-b0a5-48032bec589c": {
+      "ProjectGuid": "6fdc203c-a3b9-4acf-b0a5-48032bec589c",
+      "DisplayName": "CleverLilly",
+      "ColorIndex": 3
+    },
+    "68a9ef9a-e56d-4121-84f8-0fd5ae75d653": {
+      "ProjectGuid": "68a9ef9a-e56d-4121-84f8-0fd5ae75d653",
+      "DisplayName": "SoftUniSalary",
+      "ColorIndex": 4
+    },
+    "d924527c-2483-4478-95f1-d2ef07a969fb": {
+      "ProjectGuid": "d924527c-2483-4478-95f1-d2ef07a969fb",
+      "DisplayName": "Oscars",
+      "ColorIndex": 5
+    },
+    "6a851308-c633-4dcf-a35e-63e875d91443": {
+      "ProjectGuid": "6a851308-c633-4dcf-a35e-63e875d91443",
+      "DisplayName": "TrekkingMania",
+      "ColorIndex": 6
+    },
+    "eacfad9f-a10e-42da-9bc6-eabae0b578f2": {
+      "ProjectGuid": "eacfad9f-a10e-42da-9bc6-eabae0b578f2",
+      "DisplayName": "TennisRanklist",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
